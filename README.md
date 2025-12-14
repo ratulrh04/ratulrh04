@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shuvo Raha
+# 💫 Hi 👋, I'm Ratul Raha (Shuvo)
 **A passionate  || Frontend Engineer || Strong JavaScript Foundation**
 
 Email Me 👉 ✉️ **ratulraha.04@gmail.com** For Collaboration/Project or Anything Else. 😊😊
