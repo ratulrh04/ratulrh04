@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **sudiptoraha78@gamil.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:** https://www.olle.tech/ - as a Associate Software Engineer
 - 🌱 **I’m currently learning:** Backend dev | AI Engineering
 - 👯 **I’m looking to collaborate on:** Some exciting and innovative Projects
-- 💬 **Ask me about:** Collaboration
+- 💬 **Ask me about:** Collaboration adn contribute to innovative projects
 - 📫 **How to reach me:** sudiptoraha78@gamil.com
 - 😄 **Pronouns:** Sudipto
 - ⚡ **Fun fact:** I love to code and listen music together
