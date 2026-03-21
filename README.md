@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Ratul Raha (Shuvo)
-**A passionate  || Frontend Engineer || Strong JavaScript Foundation**
+# 💫 Hi 👋, I'm Sudipto Raha
+**A passionate Software Engineer || With Strong JavaScript Foundation**
 
-Email Me 👉 ✉️ **ratulraha.04@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sudiptoraha78@gamil.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** https://www.olle.tech/
-- 🌱 **I’m currently learning:** Next.js
-- 👯 **I’m looking to collaborate on:** Some Next.Js Projects
+- 🔭 **I’m currently working on:** https://www.olle.tech/ - as a Associate Software Engineer
+- 🌱 **I’m currently learning:** Backend dev | AI Engineering
+- 👯 **I’m looking to collaborate on:** Some exciting and innovative Projects
 - 💬 **Ask me about:** Collaboration
-- 📫 **How to reach me:** ratulraha.04@gmail.com
-- 😄 **Pronouns:** Shuvo
-- ⚡ **Fun fact:** I Love Tech 
+- 📫 **How to reach me:** sudiptoraha78@gamil.com
+- 😄 **Pronouns:** Sudipto
+- ⚡ **Fun fact:** I love to code and listen music together
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1JJvMY1Pg4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuvo.raha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratulraha.04@gmail.com) 
 
